@@ -1,0 +1,2 @@
+# finalproject
+simple-intrest-calculator
